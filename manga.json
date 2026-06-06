@@ -1,0 +1,44 @@
+{
+  "_version_tracking": "manga.json V1.0 Rev 0",
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Peerless Dragonslayer",
+  "status": "Ongoing",
+  "author": "Heena",
+  "artist": "Dongdong",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 9.5,
+  "synopsis": "Umat manusia berada di ambang kepunahan. Pahlawan terakhir yang tersisa, sang Pembunuh Naga, berjuang hingga tetes darah penghabisan namun gagal menghentikan kehancuran dunia. Tepat saat ia menghembuskan napas terakhir, sebuah keajaiban terjadi. Ia terbangun kembali ke masa lalu di akademi ksatria, dengan ingatan dan pengalaman bertarung yang utuh. Kini, ia bertekad mengubah takdir dan mencegah akhir dunia.",
+  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The End and The Beginning",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Awakening at the Academy",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/dragonslayer-peerless-regression/ch-02/004.jpg"
+      ]
+    }
+  ]
+}
