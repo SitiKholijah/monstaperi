@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Action",
+    "chapters": [
+      {
+        "name": "A Cadet Becomes a Prophet.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+      },
+      {
+        "name": "Academy_s Genius Swordmaster.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Action/Academy_s%20Genius%20Swordmaster.cbz"
+      },
+      {
+        "name": "Children of the Rune.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Action/Children%20of%20the%20Rune.cbz"
+      }
+    ]
+  },
+  {
+    "name": "Comedy",
+    "chapters": [
+      {
+        "name": "Echoes of the Reverse Planet.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Comedy/Echoes%20of%20the%20Reverse%20Planet.cbz"
+      },
+      {
+        "name": "Genius Prismatic Mage.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Comedy/Genius%20Prismatic%20Mage.cbz"
+      },
+      {
+        "name": "I Am the Fated Villain.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Comedy/I%20Am%20the%20Fated%20Villain.cbz"
+      }
+    ]
+  },
+  {
+    "name": "Romance",
+    "chapters": [
+      {
+        "name": "The Youngest Son of the Eunhae Merchant Group.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Romance/The%20Youngest%20Son%20of%20the%20Eunhae%20Merchant%20Group.cbz"
+      },
+      {
+        "name": "To Hell With the Status Window.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Romance/To%20Hell%20With%20the%20Status%20Window.cbz"
+      },
+      {
+        "name": "Villain To Kill.cbz",
+        "download_url": "https://raw.githubusercontent.com/SitiKholijah/monstaperi/main/Romance/Villain%20To%20Kill.cbz"
+      }
+    ]
+  }
+]
